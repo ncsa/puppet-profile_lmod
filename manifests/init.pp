@@ -6,4 +6,7 @@
 #   include profile_lmod
 #
 class profile_lmod {
+
+  include ::lmod
+
 }
